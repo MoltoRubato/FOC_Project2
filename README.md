@@ -14,9 +14,16 @@ This project addresses a logical puzzle involving gnomes in a fairyland who can 
 2. **Graph Representation:** Model gnome pairs with differing hat colors as a graph.
 3. **Reasoning with Graphs:** Traverse the graph to deduce hat colors using depth-first search (DFS).
 
+### Contributors
+Ryan Huang
+University Of Melbourne COMP10001 Teaching Team (Question Provider)
+
 ## How to Run
 Clone the repository and run the Python scripts for each question:
 ```bash
 git clone https://github.com/MoltoRubato/FOC_Project2.git
 cd FOC_Project2
-python3 script_name.py
+python3 P2Q1.py
+python3 P2Q2.py
+python3 P2Q3.py
+python3 P2Q4.py
