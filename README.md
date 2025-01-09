@@ -17,9 +17,12 @@ This project addresses a logical puzzle involving gnomes in a fairyland who can 
 ## Technologies  
 - Python  
 
-### Contributors
+## Contributors
 - Ryan Huang
-- University Of Melbourne COMP10001 Teaching Team (Question Provider)
+- University of Melbourne COMP10001 Teaching Team (Question Provider)
+
+## License
+This project is for academic purposes under the University of Melbourne's COMP10001 course.
 
 ## How to Run
 Clone the repository and run the Python scripts for each question:
