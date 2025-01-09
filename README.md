@@ -14,6 +14,9 @@ This project addresses a logical puzzle involving gnomes in a fairyland who can 
 2. **Graph Representation:** Model gnome pairs with differing hat colors as a graph.
 3. **Reasoning with Graphs:** Traverse the graph to deduce hat colors using depth-first search (DFS).
 
+## Technologies  
+- Python  
+
 ### Contributors
 Ryan Huang
 University Of Melbourne COMP10001 Teaching Team (Question Provider)
