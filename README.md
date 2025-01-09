@@ -18,8 +18,8 @@ This project addresses a logical puzzle involving gnomes in a fairyland who can 
 - Python  
 
 ### Contributors
-Ryan Huang
-University Of Melbourne COMP10001 Teaching Team (Question Provider)
+- Ryan Huang
+- University Of Melbourne COMP10001 Teaching Team (Question Provider)
 
 ## How to Run
 Clone the repository and run the Python scripts for each question:
