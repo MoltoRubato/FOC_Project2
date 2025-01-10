@@ -18,7 +18,7 @@ This project addresses a logical puzzle involving gnomes in a fairyland who can 
 - Python  
 
 ## Contributors
-- Ryan Huang
+- Kerui Huang
 - University of Melbourne COMP10001 Teaching Team (Question Provider)
 
 ## License
